@@ -22,6 +22,6 @@ a:hover {
 	color: #F00;
 }
 img {
-	max-width: 100%;
-	max-height: all;
+	height: 250px;
+	width: 250px;
 }
