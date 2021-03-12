@@ -1,5 +1,13 @@
 h1 {
 	font-family: Arial, "Times New Roman";
-	font-size: 25px;
+	font-size: 45px;
 	font-weight: 500;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: capitalize;
+	color: #000000;
+}
+p {
+	font-size: 22px;
+	line-height: 30px; 
 }
