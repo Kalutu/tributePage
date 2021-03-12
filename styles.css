@@ -18,6 +18,9 @@ ul {
 body {
 	background-color: lightgreen;
 }
+a:hover {
+	color: red;
+}
 img {
 	position: center;
 }
