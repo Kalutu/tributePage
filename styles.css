@@ -19,8 +19,9 @@ body {
 	background-color: lightgreen;
 }
 a:hover {
-	color: red;
+	color: #F00;
 }
 img {
-	position: center;
+	max-width: 100%;
+	max-height: all;
 }
