@@ -34,6 +34,7 @@ ul {
 }
 body {
 	background-color: lightgreen;
+	background-attachment: fixed;
 }
 a:hover {
 	color: #F00;
